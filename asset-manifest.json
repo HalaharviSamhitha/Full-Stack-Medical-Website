@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Full-stack-Medical-Website/static/css/main.f123f47a.css",
+    "main.js": "/Full-stack-Medical-Website/static/js/main.0e76bcbf.js",
+    "static/js/787.fa3026fc.chunk.js": "/Full-stack-Medical-Website/static/js/787.fa3026fc.chunk.js",
+    "static/media/bimg2.jpg": "/Full-stack-Medical-Website/static/media/bimg2.2552796edf337033c551.jpg",
+    "static/media/docpic.jpg": "/Full-stack-Medical-Website/static/media/docpic.650a9564305fb058e65d.jpg",
+    "index.html": "/Full-stack-Medical-Website/index.html",
+    "main.f123f47a.css.map": "/Full-stack-Medical-Website/static/css/main.f123f47a.css.map",
+    "main.0e76bcbf.js.map": "/Full-stack-Medical-Website/static/js/main.0e76bcbf.js.map",
+    "787.fa3026fc.chunk.js.map": "/Full-stack-Medical-Website/static/js/787.fa3026fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f123f47a.css",
+    "static/js/main.0e76bcbf.js"
+  ]
+}
